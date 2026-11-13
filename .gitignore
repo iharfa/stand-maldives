@@ -1,1 +1,8 @@
 .DS_Store
+node_modules/
+.next/
+.env
+.env*.local
+data/
+public/uploads/
+.vercel
